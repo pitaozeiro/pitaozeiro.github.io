@@ -2,7 +2,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://pitaozeiro/pitaozeiro.github.io",
+  "homepage": "https://pitaozeiro.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
